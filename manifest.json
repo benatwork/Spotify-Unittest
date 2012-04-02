@@ -1,0 +1,16 @@
+{
+    "BundleType": "Application",
+    "BundleIdentifier" : "unittest",
+    "BundleVersion" : "0.1alpha",
+    "AppIcon": {
+        "36x18": "icon.png"
+    },
+    "AppName": {
+        "en": "UnitTest"
+    },
+    "AppURL" : "www.example.com",
+    "SupportedLanguages": [
+        "en"
+    ],
+    "RequiredInterface" : 1
+}
